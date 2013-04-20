@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Py2J/!svn/ver/277/TraduttorePy2J/src/translator
+END
+TranslatorPy2JSym.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Py2J/!svn/ver/14/TraduttorePy2J/src/translator/TranslatorPy2JSym.java
+END
+MainTraslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Py2J/!svn/ver/265/TraduttorePy2J/src/translator/MainTraslator.java
+END
+TranslatorPy2J.cup
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Py2J/!svn/ver/277/TraduttorePy2J/src/translator/TranslatorPy2J.cup
+END
+TranslatorPy2J.lex
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Py2J/!svn/ver/258/TraduttorePy2J/src/translator/TranslatorPy2J.lex
+END
+TranslatorPy2JLex.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Py2J/!svn/ver/14/TraduttorePy2J/src/translator/TranslatorPy2JLex.java
+END
+TranslatorPy2JCup.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Py2J/!svn/ver/14/TraduttorePy2J/src/translator/TranslatorPy2JCup.java
+END

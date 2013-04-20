@@ -1,0 +1,43 @@
+10
+
+dir
+278
+http://xp-dev.com/svn/Py2J/TraduttorePy2J/src
+http://xp-dev.com/svn/Py2J
+
+
+
+2012-05-03T21:12:00.757925Z
+277
+Funnyf7
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+289654da-0412-444b-971d-93f5ae589e14
+
+models
+dir
+
+resultJavaTest
+dir
+
+symbol
+dir
+
+translator
+dir
+
+util
+dir
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/Py2J/!svn/ver/273/TraduttorePy2J/src/util
+END
+WriteClassToFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Py2J/!svn/ver/207/TraduttorePy2J/src/util/WriteClassToFile.java
+END
+For_stmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Py2J/!svn/ver/258/TraduttorePy2J/src/util/For_stmt.java
+END
+WhileIfCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Py2J/!svn/ver/258/TraduttorePy2J/src/util/WhileIfCondition.java
+END
+If_stmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Py2J/!svn/ver/258/TraduttorePy2J/src/util/If_stmt.java
+END
+Classdef_stmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Py2J/!svn/ver/273/TraduttorePy2J/src/util/Classdef_stmt.java
+END
+Print_stmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Py2J/!svn/ver/258/TraduttorePy2J/src/util/Print_stmt.java
+END
+While_stmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Py2J/!svn/ver/258/TraduttorePy2J/src/util/While_stmt.java
+END
+ForRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Py2J/!svn/ver/207/TraduttorePy2J/src/util/ForRange.java
+END
+UtilsToSymTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Py2J/!svn/ver/268/TraduttorePy2J/src/util/UtilsToSymTable.java
+END
