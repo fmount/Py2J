@@ -1,6 +1,0 @@
-def function():
-	a=3
-	b=4
-	t=(1,2,3)
-	v=t+a
-
